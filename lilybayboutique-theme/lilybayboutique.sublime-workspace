@@ -1,0 +1,974 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"flex-",
+				"flex-shrink"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"instructor",
+				"instructor"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"nav",
+				"navOffset"
+			],
+			[
+				"scroll",
+				"scrollPosition"
+			],
+			[
+				"scrol",
+				"scrollPosition"
+			],
+			[
+				"offset",
+				"navOffset"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"TEXT-",
+				"text-align"
+			],
+			[
+				"slide",
+				"slideContainer"
+			],
+			[
+				"ani",
+				"animationSpeed"
+			],
+			[
+				"bckround",
+				"background-position"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"bacgro",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"ba",
+				"border-radius"
+			],
+			[
+				"backround",
+				"background-color"
+			],
+			[
+				"backrund",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"backr",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"Swift",
+				"Swift_Mailer"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"about_",
+				"about_image"
+			],
+			[
+				"product",
+				"product_image"
+			],
+			[
+				"categ",
+				"category_options"
+			],
+			[
+				"ite",
+				"item_total"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"so",
+				"source"
+			],
+			[
+				"post",
+				"post_tags"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"query",
+				"queryResult"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"preg_",
+				"preg_match"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"bottom",
+				"border-bottom"
+			],
+			[
+				"backrou",
+				"background-color"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"fon",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 1780,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page-home.php",
+			"settings":
+			{
+				"buffer_size": 4910,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2942,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 33656,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 10515,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 4501,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "brow",
+		"selected_items":
+		[
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/style.css",
+		"/Users/SaraPao/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/lilybayboutique.com",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/sftp-config.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/template-parts/content.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/archive.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/page-home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/index.php",
+		"/Users/SaraPao/Downloads/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/woocommerce/myaccount/my-account.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/assets/js/scripts.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/woocommerce/cart/cart.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-account-functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/woocommerce/myaccount/navigation.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/myaccount/navigation.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/page-contact.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/page-about.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/woocommerce/taxonomy-product_cat.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/woocommerce/archive-product.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/woocommerce/content-single-product.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/woocommerce/single-product.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php",
+		"/Users/SaraPao/Desktop/mailform.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/woocommerce/content-product.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/template-parts/content-single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/js/scripts.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/single.php",
+		"/Users/SaraPao/Desktop/CSS_WooCommerce_single_pr.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/woocommerce/checkout/form-checkout.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/myaccount/my-account.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/content-product.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/comments.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/search.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/product-searchform.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config-sample.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/template-parts/content-search.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/archive-product.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap/lilybayprova/assets/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap/lilybayprova/shop.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap/lilybayprova/includes/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap/lilybayprova/templates/post-template.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap/lilybayprova/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap/lilybayprova/templates/single-product-template.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap/lilybayprova/assets/css/bootstrap.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap/lilybayprova/assets/js/scripts.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap/lilybayprova/includes/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap/lilybayprova/includes/navigation.php",
+		"/Users/SaraPao/Desktop/Paolo/14.03.17/toolbox.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap Recap/assets/css/bootstrap.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap Recap/assets/css/style.css",
+		"/Users/SaraPao/Downloads/WEBDEVELOPMENT VIDEOS/Wordpress/Udemy/Udemy - WordPress Theme Development with Bootstrap {zakirraza}/B2W_CourseFiles/C - Final Static Website/B2W - Static/index.html",
+		"/Users/SaraPao/Downloads/WEBDEVELOPMENT VIDEOS/Wordpress/Udemy/Udemy - WordPress Theme Development with Bootstrap {zakirraza}/B2W_CourseFiles/C - Final Static Website/B2W - Static/assets/css/custom.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Bootstrap Recap/index.php",
+		"/Users/SaraPao/Desktop/startbootstrap-full-slider-gh-pages/css/bootstrap.css",
+		"/Users/SaraPao/Desktop/startbootstrap-full-slider-gh-pages/index.html",
+		"/Users/SaraPao/Desktop/startbootstrap-full-slider-gh-pages/css/full-slider.css",
+		"/Users/SaraPao/Dropbox/Webdesign/Resources/Seminars/Udemy/Complete Web Developer Course/5. Bootstrap/Landing Page project/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress 2/wp-content/themes/bootstrap2wordpress/content-optin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress 2/wp-content/themes/bootstrap2wordpress/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress 2/wp-content/themes/bootstrap2wordpress/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress 2/wp-content/themes/bootstrap2wordpress/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress 2/wp-content/themes/bootstrap2wordpress/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress 2/wp-content/themes/bootstrap2wordpress/404.php",
+		"/Users/SaraPao/Downloads/WEBDEVELOPMENT VIDEOS/Pinny Development/Project1/index.html",
+		"/Users/SaraPao/Downloads/WEBDEVELOPMENT VIDEOS/Pinny Development/Project1/css/style.css",
+		"/Users/SaraPao/Downloads/WEBDEVELOPMENT VIDEOS/Pinny Development/Project1/index1.html",
+		"/Users/SaraPao/Downloads/WEBDEVELOPMENT VIDEOS/Pinny Development/Project1/recipes.html",
+		"/Users/SaraPao/Downloads/WEBDEVELOPMENT VIDEOS/Pinny Development/Project1/css/style1.css",
+		"/Users/SaraPao/Downloads/WEBDEVELOPMENT VIDEOS/Pinny Development/Project1/css/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress 2/wp-content/themes/B2W/blog.html",
+		"/Users/SaraPao/Downloads/WEBDEVELOPMENT VIDEOS/Pinny Development/Project1/project1.sublime-project",
+		"/Users/SaraPao/Downloads/WEBDEVELOPMENT VIDEOS/Pinny Development/Project1/style.css",
+		"/Users/SaraPao/Downloads/WEBDEVELOPMENT VIDEOS/Wordpress/Udemy/Udemy - WordPress Theme Development with Bootstrap {zakirraza}/B2W_CourseFiles/C - Final Static Website/B2W - Static/post.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress 2/wp-content/themes/B2W/assets/css/custom.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress 2/wp-content/themes/B2W/index.html",
+		"/Users/SaraPao/Desktop/B2W",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/includes/overview.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/includes/contact_us.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/testimonials.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/js/javascript.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/timetable.php",
+		"/Users/SaraPao/Dropbox/Webdesign/Resources/Seminars/Udemy/The Complete JavaScript Course  Build a Real-World Project/section 05/5-Advanced-JS/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/membership.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/links.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/about.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/rules.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/gallery.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/includes/arrays.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/martial_arts.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/fitness.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/gym.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/includes/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/includes/navigation.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/includes/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/includes/timetable.php",
+		"/Users/SaraPao/github/gitRepo/Tokei Gym Website - modified contact form/public/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website - modified contact form/public/mail.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/includes/contact_us.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/resources/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/mail.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/resources/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/includes/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/includes/navigation.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/rules.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/links.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/includes/arrays.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/gym.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/martial_arts.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/includes/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/about.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/gallery.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/includes/overview.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/fitness.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/content/navigation.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/content/membership.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/js/javascript.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/WEBSITES/Tokei Gym Website/public/content/index.php",
+		"/Users/SaraPao/Desktop/Lynda..Workflow.Tools.for.Web.Development/Ex_Files_WorkflowTools_WebDev/Exercise Files/Ch01/01_06/styles.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress,/Applications/XAMPP/xamppfiles/htdocs/wordpress",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce,/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme,/Applications/XAMPP/xamppfiles/htdocs/wordpress",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce,/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/lilybayboutique-theme",
+			"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"showcoupon",
+			"input[name]",
+			"input.text",
+			"input .text",
+			"input.text",
+			"checkbox",
+			"wysija[comment_subscribe]",
+			"wysija-box-after-comment",
+			"hero",
+			"BLOG-HEADER",
+			"#overview",
+			"TESTIMONIALS",
+			"NAVIGATION",
+			"buttons",
+			"my-account",
+			"#my-account",
+			".site-main",
+			".entry-title",
+			".content ",
+			"buttons",
+			"wc_get_account_menu_items",
+			"woocommerce_account_navigation",
+			"wc_get_account_menu_items",
+			"woocommerce_account_navigation",
+			"wc_get_account_menu_item_classes",
+			"woocommerce_output_content_wrapper",
+			"#content",
+			"hero",
+			"home",
+			"breadcrumb",
+			"woocommerce-form__label.woocommerce-form__label-for-checkbox.checkbox",
+			"shop",
+			"navbar-bra",
+			"contact",
+			"navbar-brand",
+			"ahop",
+			"woocommerce_output_product_data_tabs",
+			"additionoal_information_tab",
+			"#featured h1",
+			"blog-body",
+			"copyright",
+			"footer",
+			"featured",
+			"footer",
+			"colors",
+			"*",
+			"width: 75",
+			"sidebar",
+			"get_sidebar",
+			"blog-header",
+			"moretag",
+			"blog-head",
+			"the_content",
+			"woocommerce_after_checkout_from",
+			"woocommerce_account_content",
+			"woocommerce_template_loop_product_link_open",
+			"woocommerce_shop_loop",
+			"woocommerce_template_loop_product_title",
+			"loop_shop_columns",
+			".overview",
+			"overview",
+			".panel",
+			"glyphicon",
+			"span",
+			".section_wr",
+			".subscribe_box",
+			"header_box_contact",
+			"02074035979",
+			"020740",
+			".overview_description",
+			"contact",
+			"justify",
+			"how_to_find",
+			"#how_to_find",
+			".awesome-form",
+			"membership",
+			"</p>",
+			"<p>",
+			"</h4>",
+			"<h4>",
+			".handle",
+			"membership",
+			"timetable",
+			"<td>",
+			"<h4>BOOK</h4>",
+			"</a>",
+			"<a href=\"https://book.playenable.com/tokei-fitness-centre\" target=\"_blank\">",
+			"timetable",
+			"#wrapper",
+			"wrapper",
+			".handle",
+			"footer",
+			"copyright_footer",
+			"contact us h4",
+			"h4",
+			"opening_times_table",
+			"contact_us",
+			"MEDIA QUER",
+			"nav_main_fixed",
+			"fees_circle",
+			"header",
+			"header_right_box",
+			"title",
+			"slug",
+			"content",
+			"includes",
+			"contact",
+			"Slider",
+			"overview",
+			"    e.preventDefault();\n",
+			"dropdown",
+			"getintouch_box",
+			".getintouch_box",
+			"box_contact",
+			"box_header_contact",
+			"h2",
+			"left",
+			"right",
+			"div",
+			"auto",
+			"$_POST",
+			"AND",
+			".navigazione",
+			".visible",
+			".dropmenu",
+			".dropdown",
+			"dropdwon",
+			"15em"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$row"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/js/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1760,
+								1760
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 667.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "page-home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4644,
+								4644
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2649.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1062,
+								1062
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33180,
+								33180
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32419.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4340,
+								4340
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2100.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2980,
+								3069
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1623.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "lilybayboutique.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 307.0,
+		"last_filter": "displa",
+		"selected_items":
+		[
+			[
+				"displa",
+				"display_cat_name_in_navigator"
+			]
+		],
+		"width": 521.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
